@@ -1,4 +1,4 @@
-# Projet 2 – Analyse de données de systèmes éducatifs
+# Projet 1 – Analyse de données de systèmes éducatifs
 
 ## Contexte
 
